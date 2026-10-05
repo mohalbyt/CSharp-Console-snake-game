@@ -1,0 +1,14 @@
+D:\Projects\Snaker\bin\Release\net9.0\win-x64\Snaker.exe
+D:\Projects\Snaker\bin\Release\net9.0\win-x64\Snaker.deps.json
+D:\Projects\Snaker\bin\Release\net9.0\win-x64\Snaker.runtimeconfig.json
+D:\Projects\Snaker\bin\Release\net9.0\win-x64\Snaker.dll
+D:\Projects\Snaker\bin\Release\net9.0\win-x64\Snaker.pdb
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.AssemblyInfoInputs.cache
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.AssemblyInfo.cs
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.csproj.CoreCompileInputs.cache
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.dll
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\refint\Snaker.dll
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.pdb
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\Snaker.genruntimeconfig.cache
+D:\Projects\Snaker\obj\Release\net9.0\win-x64\ref\Snaker.dll
